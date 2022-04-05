@@ -1,0 +1,12 @@
+ header{
+     padding: 5px;
+     width: 100px;
+     display:flex;
+ }
+
+ caption {
+    background-color: thistle;
+    font-size: medium;
+    font-family:'Courier New', Courier, monospace;
+ }
+
